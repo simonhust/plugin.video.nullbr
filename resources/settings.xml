@@ -1,0 +1,5 @@
+<settings>
+  <setting id="alist_url" type="text" label="OpenList地址" default="http://127.0.0.1:5244"/>
+  <setting id="alist_user" type="text" label="OpenList用户" default="admin"/>
+  <setting id="alist_pwd" type="text" label="OpenList密码" default="coreelec"/>
+</settings>
